@@ -1,0 +1,47 @@
+*{
+    font-family: 'Baloo Bhai 2', cursive;
+}
+.box{
+    box-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    background: linear-gradient(to bottom, rgb(0, 0, 0), transparent);
+    border: ridge;
+    box-shadow: 0px 0px 10px 3px grey;
+}
+
+body{
+    /* background-image: url(https://i2.wp.com/xtrafondos.com/wallpapers/universo-abstracto-3820.jpg); */
+    background-image: url(https://cdn.wallpapersafari.com/70/45/D62FrM.jpg);
+    /* background-image: "image\6.jpg"; */
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    background-position: bottom;
+}
+
+.div1{
+    background: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    padding: 20px;
+    /* box-sizing: 10%; */
+    box-shadow: 0px 0px 10px 3px grey;
+    border-radius: 25px;
+}
+.div2{
+    background: rgba(0, 0, 0, 0.6);
+    color: rgb(255, 255, 255);
+    margin-top: 50px;
+    padding: 20px;
+    width: 70%;
+    /* box-sizing: 10%; */
+    box-shadow: 0px 0px 10px 3px grey;
+    border-radius: 25px;
+}
+
+button{
+    border-radius: 25px;
+    backface-visibility: hidden;
+}
