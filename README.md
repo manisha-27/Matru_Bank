@@ -4,7 +4,7 @@ Completed my #task1 successfully on Basic Banking System as Web Development & De
 
 #Task1 : Basic Banking System
 
-FRONT END : HTML , CSS, Javascript
-BACK END : PHP
-DATABASE :Mysql
-youtube link:https://lnkd.in/emVgmxW
+- FRONT END : HTML , CSS, Javascript
+- BACK END : PHP
+- DATABASE :Mysql
+- youtube link: https://www.youtube.com/watch?v=EwHaZAGDCJw
